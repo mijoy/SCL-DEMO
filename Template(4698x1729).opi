@@ -168,7 +168,7 @@ $(pv_value)</tooltip>
       </foreground_color>
       <actions hook="false" hook_all="false" />
       <font>
-        <fontdata fontName="Sans" height="72" style="1" />
+        <fontdata fontName="NanumGothic" height="72" style="1" />
       </font>
     </widget>
     <widget typeId="org.csstudio.opibuilder.widgets.TextUpdate" version="1.0.0">
@@ -220,7 +220,7 @@ $(pv_value)</tooltip>
       </foreground_color>
       <actions hook="false" hook_all="false" />
       <font>
-        <fontdata fontName="Sans" height="26" style="1" />
+        <fontdata fontName="NanumGothic" height="26" style="1" />
       </font>
     </widget>
     <widget typeId="org.csstudio.opibuilder.widgets.groupingContainer" version="1.0.0">
@@ -416,7 +416,7 @@ $(pv_value)</tooltip>
         </foreground_color>
         <actions hook="false" hook_all="false" />
         <font>
-          <fontdata fontName="Sans" height="17" style="2" />
+          <fontdata fontName="NanumGothic" height="17" style="3" />
         </font>
       </widget>
       <widget typeId="org.csstudio.opibuilder.widgets.Label" version="1.0.0">
@@ -456,7 +456,7 @@ $(pv_value)</tooltip>
         </foreground_color>
         <actions hook="false" hook_all="false" />
         <font>
-          <fontdata fontName="Sans" height="17" style="2" />
+          <fontdata fontName="NanumGothic" height="17" style="3" />
         </font>
       </widget>
       <widget typeId="org.csstudio.opibuilder.widgets.Label" version="1.0.0">
@@ -496,7 +496,7 @@ $(pv_value)</tooltip>
         </foreground_color>
         <actions hook="false" hook_all="false" />
         <font>
-          <fontdata fontName="Sans" height="17" style="2" />
+          <fontdata fontName="NanumGothic" height="17" style="3" />
         </font>
       </widget>
       <widget typeId="org.csstudio.opibuilder.widgets.Image" version="1.0.0">
@@ -721,7 +721,7 @@ $(pv_value)</tooltip>
     <enabled>true</enabled>
     <wuid>45b8c5bb:1513c6b5781:-613e</wuid>
     <transparent>false</transparent>
-    <lock_children>true</lock_children>
+    <lock_children>false</lock_children>
     <scripts />
     <height>820</height>
     <border_width>1</border_width>
@@ -792,7 +792,7 @@ $(pv_value)</tooltip>
       </foreground_color>
       <actions hook="false" hook_all="false" />
       <font>
-        <fontdata fontName="Sans" height="56" style="1" />
+        <fontdata fontName="NanumGothic" height="56" style="1" />
       </font>
     </widget>
     <widget typeId="org.csstudio.trends.databrowser.opiwidget" version="1.0.0">
@@ -845,7 +845,7 @@ $(pv_value)</tooltip>
     <enabled>true</enabled>
     <wuid>45b8c5bb:1513c6b5781:-613c</wuid>
     <transparent>false</transparent>
-    <lock_children>true</lock_children>
+    <lock_children>false</lock_children>
     <scripts />
     <height>820</height>
     <border_width>1</border_width>
@@ -916,7 +916,7 @@ $(pv_value)</tooltip>
       </foreground_color>
       <actions hook="false" hook_all="false" />
       <font>
-        <fontdata fontName="Sans" height="56" style="1" />
+        <fontdata fontName="NanumGothic" height="56" style="1" />
       </font>
     </widget>
     <widget typeId="org.csstudio.trends.databrowser.opiwidget" version="1.0.0">
@@ -1098,7 +1098,7 @@ $(pv_value)</tooltip>
       </foreground_color>
       <actions hook="false" hook_all="false" />
       <font>
-        <fontdata fontName="Sans" height="56" style="1" />
+        <fontdata fontName="NanumGothic" height="56" style="1" />
       </font>
     </widget>
     <widget typeId="org.csstudio.opibuilder.widgets.Image" version="1.0.0">
