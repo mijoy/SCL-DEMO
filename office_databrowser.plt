@@ -134,8 +134,8 @@
                 <green>0</green>
                 <blue>160</blue>
             </color>
-            <min>0.6337135614702163</min>
-            <max>100.63371356147022</max>
+            <min>-26.0</min>
+            <max>169.0</max>
             <grid>false</grid>
             <autoscale>false</autoscale>
             <log_scale>false</log_scale>
@@ -151,8 +151,8 @@
                 <green>132</green>
                 <blue>132</blue>
             </color>
-            <min>0.6337135614702163</min>
-            <max>100.63371356147022</max>
+            <min>4.0</min>
+            <max>130.0</max>
             <grid>false</grid>
             <autoscale>false</autoscale>
             <log_scale>false</log_scale>
@@ -168,8 +168,8 @@
                 <green>128</green>
                 <blue>0</blue>
             </color>
-            <min>1.9011406844106489</min>
-            <max>500.0</max>
+            <min>-6.0</min>
+            <max>586.0</max>
             <grid>false</grid>
             <autoscale>false</autoscale>
             <log_scale>false</log_scale>
